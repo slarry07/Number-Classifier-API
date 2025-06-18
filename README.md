@@ -8,7 +8,7 @@ A FastAPI-based microservice that takes a number and returns interesting mathema
 - Identify Armstrong numbers
 - Calculate digit sum
 - Retrieve fun mathematical facts
-- CORS support
+- CORS supports
 
 # Project Structure
 
